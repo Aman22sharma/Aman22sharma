@@ -10,7 +10,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
       
 # Statistics #
 
-![Aman's github stats](https://github-readme-stats.vercel.app/api?username=Aman22sharma&hide=["issues"]&show_icons=true)
+![Aman's github stats](https://github-readme-stats.vercel.app/api?username=Aman22sharma&show_icons=true&theme=tokyonight)
 
 
 **- 📫 How to reach me 🌍 : ...**
