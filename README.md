@@ -7,8 +7,12 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 **- 🔭 I’m currently focussing on ...**
 
       React js, Node js, Express js, MondoDB 
-![Aman github stats]
-(https://github-readme-stats.vercel.app/api?username=Aman22sharma&show_icons=ture)
+      
+# Statistics #
+
+![Aman's github stats](https://github-readme-stats.vercel.app/api?username=Aman22sharma&hide=["issues"]&show_icons=true)
+
+
 **- 📫 How to reach me 🌍 : ...**
 ##### 💌Mail me [Kumaraman.rose@gmail.com]()
 ##### ▶Linkedin Profle [Click here](https://www.linkedin.com/in/aman-kumar-sharma-2a4775159/)
