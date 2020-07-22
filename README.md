@@ -15,7 +15,8 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 
 **- 📫 How to reach me 🌍 : ...**
 ##### 💌Mail me [Kumaraman.rose@gmail.com]()
-##### ▶Linkedin Profle [Click here](https://www.linkedin.com/in/aman-kumar-sharma-2a4775159/)
-##### ▶Facebook Profile [Click here](https://www.facebook.com/amankumar.sharma.39501/)
-##### ▶Instagram Profile [Click here](https://www.instagram.com/aman_sharma.richel/?hl=en)
+# Social Media #
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Aman22sharma)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-sharma-2a4775159/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/aman_sharma.richel/)
 
