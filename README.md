@@ -6,7 +6,7 @@ I'm a software engineer who is passionate💖 about JavaScript Full Stack Web De
 
 **- 🔭 I’m currently focussing on ...**
 
-      React js, Node js, Express js, MondoDB 
+      React js, Node js, Express js, MondoDB , AWS
      
 # Statistics #
 
