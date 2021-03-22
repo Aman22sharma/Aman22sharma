@@ -22,7 +22,6 @@
 </td>
 </tr>
 <tr>
-  <h3 align="left">My Skill Set:</h3>
   <th>Web Development</th>
   <th>Mobile Development</th>
 </tr>
