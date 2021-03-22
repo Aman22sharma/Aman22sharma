@@ -14,10 +14,10 @@
             Aman kumar Sharma
 
 <p align="center">
-<a href = "https://github.com/0x48piraj"><img src = "https://www.iconninja.com/files/573/260/882/pictures-instagram-icon.png" width="36" height = "36"/></a>
-<a href = "https://twitter.com/0x48piraj"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
-<a href = "https://www.linkedin.com/in/0x48piraj/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
-  <a href = "https://www.linkedin.com/in/0x48piraj/"><img src = "https://www.iconninja.com/files/250/72/926/fb-facebook-communication-social-icon.png" width="36" height="36"/></a>
+<a href = "https://instagram.com/aman_sharma.richel"><img src = "https://www.iconninja.com/files/573/260/882/pictures-instagram-icon.png" width="36" height = "36"/></a>
+<a href = "https://twitter.com/webdev_aman"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
+<a href = "https://linkedin.com/in/aman-kumar-sharma-2a4775159"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+  <a href = "https://fb.com/amankumar.sharma.39501"><img src = "https://www.iconninja.com/files/250/72/926/fb-facebook-communication-social-icon.png" width="36" height="36"/></a>
 </p>
 </td>
 </tr>
