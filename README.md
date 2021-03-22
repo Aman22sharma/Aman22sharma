@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman22sharma&label=Profile%20views&color=0e75b6&style=flat" alt="aman22sharma" /> </p>
 
 - 💬 Ask me about **Ionic, JavaScript, React, Angular, Node..**
+<h3 align="left">My Skill Set:</h3>
 
 |       Web Developent         |Mobile Develpment                        |Software/Tools                   |
 |----------------|-------------------------------|-----------------------------|
@@ -17,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/aman22sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="aman22sharma" height="30" width="40" /></a>
+<a href="https://codepen.io/aman22sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="aman22sharma" height="30" width="40"/></a>
 <a href="https://dev.to/https://dev.to/aman22sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/aman22sharma" height="30" width="40" /></a>
 <a href="https://twitter.com/webdev_aman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="webdev_aman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman-kumar-sharma-2a4775159" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aman-kumar-sharma-2a4775159" height="30" width="40" /></a>
