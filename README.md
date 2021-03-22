@@ -1,6 +1,6 @@
 # Hi, I'm Aman 👋🏾👨‍🎓‍💻
 
-<img src="https://user-images.githubusercontent.com/40789486/87766427-c4935300-c836-11ea-8f4d-c16ad8823ad1.png" alt="banner that says aman kumar sharma profession">
+<img src="https://user-images.githubusercontent.com/40789486/111953179-49dcaf00-8b0c-11eb-8293-4599d827ecf1.png" alt="banner that says aman kumar sharma profession">
 
 I'm a software engineer who is passionate💖 about JavaScript Full Stack Web Development (MERN Stack Technologies). I recently Got a badge as Arctic Code Vault Contributor on GitHub based on my involvement in open souce contrubution. 
 
