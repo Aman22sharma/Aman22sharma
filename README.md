@@ -6,14 +6,15 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman22sharma&" alt="aman22sharma"/></p>
   </td>
 <td>
-     <img src="https://avatars3.githubusercontent.com/u/5800726?s=250&v=4" />
+     <img src="https://user-images.githubusercontent.com/40789486/112022099-f5f7b780-8b57-11eb-9b7d-9ddb80b1897e.jpg" />
 
-             Piyush Raj
+         Aman kumar Sharma
 
 <p align="center">
-<a href = "https://github.com/0x48piraj"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://github.com/0x48piraj"><img src = "https://www.iconninja.com/files/573/260/882/pictures-instagram-icon.png" width="36" height = "36"/></a>
 <a href = "https://twitter.com/0x48piraj"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
 <a href = "https://www.linkedin.com/in/0x48piraj/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+  <a href = "https://www.linkedin.com/in/0x48piraj/"><img src = "https://www.iconninja.com/files/250/72/926/fb-facebook-communication-social-icon.png" width="36" height="36"/></a>
 </p>
 </td>
 </tr>
