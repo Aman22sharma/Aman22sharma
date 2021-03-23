@@ -9,7 +9,7 @@
   </td>
 <td>
      <p align="center"><img align="center" src="https://user-images.githubusercontent.com/40789486/112022099-f5f7b780-8b57-11eb-9b7d-9ddb80b1897e.jpg" /></p>
-  <h6 align="center">Software Engineer<br>@Hylobiz</h6>
+  <h6 align="center">Software Engineer<br>@Hylobiz, Banglore (India)</h6>
 </td>
 </tr>
 <tr>
@@ -22,7 +22,7 @@
 
 </td>
 <td>
-<h6 align="center">Aman Kumar Sharma<br>Connect with me :</h6>
+<h6 align="center">Connect with me :</h6>
 <p align="center">
 <a href = "https://instagram.com/aman_sharma.richel"><img src = "https://www.iconninja.com/files/573/260/882/pictures-instagram-icon.png" width="36" height = "36"/></a>
 <a href = "https://twitter.com/webdev_aman"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
