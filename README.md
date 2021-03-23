@@ -4,10 +4,10 @@
 <tr>
   <td>
     <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman22sharma" alt="aman22sharma" />     </a></p>
-    <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aman22sharma&layout=compact&theme=radical" alt="aman22sharma"/ width="100%"></p>
+    <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aman22sharma&layout=compact&theme=radical" alt="aman22sharma" width="100%" /></p>
   </td>
   <td>
-    <p align="center"><img align="center" src="https://user-images.githubusercontent.com/40789486/112022099-f5f7b780-8b57-11eb-9b7d-9ddb80b1897e.jpg" /></p>
+    <p align="left"><img align="center" src="https://user-images.githubusercontent.com/40789486/112022099-f5f7b780-8b57-11eb-9b7d-9ddb80b1897e.jpg"/></p>
     <h6 align="center">Software Engineer<br>@Hylobiz, Banglore (India)</h6>
   </td>
 </tr>
