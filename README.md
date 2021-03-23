@@ -10,7 +10,7 @@
 - 📝 I regularly write articles on [https://medium.com/@kumaraman.rose](https://medium.com/@kumaraman.rose)
 
 - ⚡ Fun fact **" The biggest risk is not taking any risk " ❤**
-
+<h3 align="left">My Skill Set : </h3>
   </td>
 <td>
      <p align="center"><img align="center" src="https://user-images.githubusercontent.com/40789486/112022099-f5f7b780-8b57-11eb-9b7d-9ddb80b1897e.jpg" /></p>
