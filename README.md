@@ -7,7 +7,7 @@
     <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aman22sharma&layout=compact&theme=radical" alt="aman22sharma" width="100%" /></p>
   </td>
   <td>
-    <p align="left"><img align="center" src="https://user-images.githubusercontent.com/40789486/112022099-f5f7b780-8b57-11eb-9b7d-9ddb80b1897e.jpg"/></p>
+    <p align="center"><img align="center" src="https://user-images.githubusercontent.com/40789486/112022099-f5f7b780-8b57-11eb-9b7d-9ddb80b1897e.jpg"/></p>
     <h6 align="center">Software Engineer<br>@Hylobiz, Banglore (India)</h6>
   </td>
 </tr>
