@@ -3,12 +3,13 @@
 <table>
 <tr>
   <td>
-    
+    <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman22sharma" alt="aman22sharma" />     </a></p>
+    <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aman22sharma&layout=compact&theme=radical" alt="aman22sharma"/></p>
+
 - 💬 Ask me about **Ionic, JavaScript, React, Angular, Node..**
 - 📝 I regularly write articles on [https://medium.com/@kumaraman.rose](https://medium.com/@kumaraman.rose)
 
 - ⚡ Fun fact **" The biggest risk is not taking any risk " ❤**
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman22sharma&layout=compact&theme=radical" alt="aman22sharma"/></p><p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman22sharma" alt="aman22sharma" /></a> </p>
 
   </td>
 <td>
