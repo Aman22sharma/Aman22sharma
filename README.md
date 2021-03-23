@@ -9,6 +9,7 @@
   </td>
 <td>
      <p align="center"><img align="center" src="https://user-images.githubusercontent.com/40789486/112022099-f5f7b780-8b57-11eb-9b7d-9ddb80b1897e.jpg"/></p>
+  <h6 align="center">Software Engineer<br>@Hylobiz</h6>
 </td>
 </tr>
 <tr>
@@ -21,9 +22,7 @@
 
 </td>
 <td>
-  
-            Aman kumar Sharma
-
+<h6 align="center">Aman Kumar Sharma<br>Connect with me :</h6>
 <p align="center">
 <a href = "https://instagram.com/aman_sharma.richel"><img src = "https://www.iconninja.com/files/573/260/882/pictures-instagram-icon.png" width="36" height = "36"/></a>
 <a href = "https://twitter.com/webdev_aman"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
@@ -47,7 +46,7 @@
   <th>Software/Tools</th>
 </tr>
 <td>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aman22sharma&show_icons=true&locale=en&layout=compact&theme=radical" alt="aman22sharma" /></p> 
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aman22sharma&show_icons=true&locale=en&layout=compact&theme=radical" alt="aman22sharma" width="100%"/></p> 
 </td>
 <td>
   <p align="left"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/40789486/111963362-6e8b5380-8b19-11eb-86dd-800a128dc1fd.png" alt="Vscode" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/40789486/111964002-29b3ec80-8b1a-11eb-9523-1b3bfd3aa5ed.png" alt="openproject" width="40" height="40"/></p>
