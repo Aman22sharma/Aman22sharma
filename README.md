@@ -16,7 +16,7 @@
   
 - 💬 Ask me about **Ionic, JavaScript, React, Angular, Node..**
 - 📝 I regularly write articles on [https://medium.com/@kumaraman.rose](https://medium.com/@kumaraman.rose)
-- ⚡ Fun fact **" The biggest risk is not taking any risk " ❤**
+- ⚡ Fun fact **" Believe in hard work " ❤**
 - 🎓‍My Skill Set :
 </td>
 <td>
