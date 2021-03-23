@@ -4,17 +4,24 @@
 <tr>
   <td>
     <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman22sharma" alt="aman22sharma" />     </a></p>
-    <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aman22sharma&layout=compact&theme=radical" alt="aman22sharma"/></p>
+    <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aman22sharma&layout=compact&theme=radical" alt="aman22sharma"/ width="100%"></p>
 
-- 💬 Ask me about **Ionic, JavaScript, React, Angular, Node..**
-- 📝 I regularly write articles on [https://medium.com/@kumaraman.rose](https://medium.com/@kumaraman.rose)
-
-- ⚡ Fun fact **" The biggest risk is not taking any risk " ❤**
-<h3 align="left">My Skill Set : </h3>
   </td>
 <td>
-     <p align="center"><img align="center" src="https://user-images.githubusercontent.com/40789486/112022099-f5f7b780-8b57-11eb-9b7d-9ddb80b1897e.jpg" /></p>
+     <p align="center"><img align="center" src="https://user-images.githubusercontent.com/40789486/112022099-f5f7b780-8b57-11eb-9b7d-9ddb80b1897e.jpg"/></p>
+</td>
+</tr>
+<tr>
+  <td>
+  
+- 💬 Ask me about **Ionic, JavaScript, React, Angular, Node..**
+- 📝 I regularly write articles on [https://medium.com/@kumaraman.rose](https://medium.com/@kumaraman.rose)
+- ⚡ Fun fact **" The biggest risk is not taking any risk " ❤**
+- 🎓‍My Skill Set :
 
+</td>
+<td>
+  
             Aman kumar Sharma
 
 <p align="center">
@@ -23,7 +30,7 @@
 <a href = "https://linkedin.com/in/aman-kumar-sharma-2a4775159"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
   <a href = "https://fb.com/amankumar.sharma.39501"><img src = "https://www.iconninja.com/files/250/72/926/fb-facebook-communication-social-icon.png" width="36" height="36"/></a>
 </p>
-</td>
+ </td>
 </tr>
 <tr>
   <th>Web Development</th>
