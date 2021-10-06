@@ -3,7 +3,7 @@
 <table>
 <tr>
   <td>
-    <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman22sharma" alt="aman22sharma" />     </a></p>
+    <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aman22sharma" alt="Aman22sharma" />     </a></p>
     <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aman22sharma&layout=compact&theme=radical" alt="aman22sharma" width="100%" /></p>
   </td>
   <td>
