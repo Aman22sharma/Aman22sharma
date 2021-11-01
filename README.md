@@ -3,7 +3,7 @@
 <table>
 <tr>
   <td>
-    <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aman22sharma" alt="Aman22sharma" />     </a></p>
+    <p align="left"><a href="https://github.com/Aman22sharma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aman22sharma" alt="Aman22sharma" />     </a></p>
     <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aman22sharma&layout=compact&theme=radical" alt="aman22sharma" width="100%" /></p>
   </td>
   <td>
@@ -44,7 +44,7 @@
   <th>Software/Tools</th>
 </tr>
 <td>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aman22sharma&show_icons=true&locale=en&layout=compact&theme=radical" alt="aman22sharma" width="100%"/></p> 
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Aman22sharma&show_icons=true&locale=en&layout=compact&theme=radical" alt="aman22sharma" width="100%"/></p> 
 </td>
 <td>
   <p align="left"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/40789486/111963362-6e8b5380-8b19-11eb-86dd-800a128dc1fd.png" alt="Vscode" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/40789486/111964002-29b3ec80-8b1a-11eb-9523-1b3bfd3aa5ed.png" alt="openproject" width="40" height="40"/></p>
