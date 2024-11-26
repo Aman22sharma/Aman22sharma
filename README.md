@@ -8,7 +8,7 @@
   </td>
   <td>
     <p align="center"><img align="center" src="https://user-images.githubusercontent.com/40789486/112755557-bec55280-8ffe-11eb-9880-979f6275deb9.png" /></p>
-    <h6 align="center">Software Developer<br>@Bizdata Inc, Banglore (India)</h6>
+    <h6 align="center">Software Developer<br>@Accolite Inc, Banglore (India)</h6>
   </td>
 </tr>
 <tr>
