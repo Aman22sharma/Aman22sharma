@@ -2,14 +2,14 @@
 <p align="top"> <img src="https://komarev.com/ghpvc/?username=aman22sharma&label=Profile%20views&color=0e75b6&style=flat" alt="aman22sharma" /></p>
 <table>
 <tr>
-  <td>
-    <p align="left"><a href="https://github.com/Aman22sharma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aman22sharma&column=5&margin-w=1&margin-h=0" alt="Aman22sharma" />     </a></p>
-    <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aman22sharma&layout=compact&theme=radical" alt="aman22sharma" width="100%" /></p>
-  </td>
-  <td>
+<!--   <td> -->
+    <p align="left"><a href="https://github-profile-trophy.vercel.app/?username=aman22sharma&theme=flat&title=Followers,Stars,Commits,Experience,PullRequest,Repository,Issues,MultiLanguage&margin-w=2"><img src="https://github-profile-trophy.vercel.app/?username=aman22sharma&theme=flat&title=Followers,Stars,Commits,Experience,PullRequest,Repository,Issues,MultiLanguage&margin-w=2" alt="Aman22sharma" /></a></p>
+<!--     <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aman22sharma&layout=compact&theme=radical" alt="aman22sharma" width="100%" /></p> -->
+<!--   </td> -->
+<!--   <td>
     <p align="center"><img align="center" src="https://user-images.githubusercontent.com/40789486/112755557-bec55280-8ffe-11eb-9880-979f6275deb9.png" /></p>
-    <h6 align="center">Senior Software Developer<br>@Accolite Inc, Banglore (India)</h6>
-  </td>
+    <h6 align="center">Senior Software Developer<br>@Accolite Inc, Banglore (India)</h6>-->
+<!--   </td> -->
 </tr>
 <tr>
   <td>
